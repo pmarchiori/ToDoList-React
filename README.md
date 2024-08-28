@@ -6,15 +6,6 @@
 ![react][REACT__BADGE]
 
 <p align="center">
- <a href="#about">About</a> • 
- <a href="#started">Getting Started</a> • 
-  <a href="#started">App Routes</a> • 
-  <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
-</p>
-
-
-<p align="center">
     <img src="src/assets/png/screen.png" alt="screenshot of the program" width="600px">
 </p>
 
